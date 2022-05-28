@@ -11,4 +11,5 @@ Under bivariate analysis, there is calculation of covariance and correlation coe
 Below are links to the R Markdown notebook and the dataset.
 
 R Markdown: http://rpubs.com/Vikki_mbaka/907774
+
 Dataset: http://bit.ly/IPAdvertisingData
